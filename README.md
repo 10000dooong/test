@@ -1,5 +1,5 @@
 # 🔐 EPIA 기반 개인정보 영향평가
-**Easy / Enterprise Privacy Impact Assessment**  
+***Easy / Enterprise Privacy Impact Assessment***  
 **민간기업도 개인정보 리스크를 관리할 수 있도록 돕는 영향평가 표준 & 프레임워크입니다.**
 
 ## 📚 목차
