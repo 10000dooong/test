@@ -1,5 +1,6 @@
 # 🔐 EPIA 기반 개인정보 영향평가
 ***Easy / Enterprise Privacy Impact Assessment***  
+  
 본 프로젝트는 BoB 14기에서 진행한 프로젝트로, **민간기업도 개인정보 리스크를 관리할 수 있도록 돕는 영향평가 표준 & 프레임워크입니다.**
 
 ## 📚 목차
